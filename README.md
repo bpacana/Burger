@@ -1,4 +1,7 @@
 # Burger
+
+https://evening-badlands-69879.herokuapp.com/
+
 A burger logger web application that uses Sequelize, Node, Express, and Handlebars. It follows the MVC design pattern, uses Node and Sequelize to query and route data in the app, and uses Handlebars to generate the HTML.
 
 How It Works
