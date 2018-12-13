@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/natplusultra/Burger.git"
+    "url": "git+https://github.com/bpacana/Burger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/natplusultra/Burger/issues"
+    "url": "https://github.com/bpacana/Burger/issues"
   },
-  "homepage": "https://github.com/natplusultra/Burger#readme",
+  "homepage": "https://github.com/bpacana/Burger#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
